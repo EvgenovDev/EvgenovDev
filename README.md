@@ -1,6 +1,3 @@
-![Header](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX)
-_____
-
 ## About me:
 Hello everyone! My name's Roman and I'm frontend developer!
 _____
