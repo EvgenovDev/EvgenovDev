@@ -2,7 +2,7 @@
 _____
 
 ## About me:
-Hello everyone! 👋 My name's Roman and I'm begginer frontend developer! 😎 This is my main profile 💜
+Hello everyone! My name's Roman and I'm frontend developer!
 _____
 
 ## Languages and tools:
